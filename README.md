@@ -89,7 +89,7 @@ ImageProcessor/
 ## ▶️ Run Instructions
 
 Open your browser and visit:
-http://127.0.0.1:5000
+http://10.71.243.211:5000
 
 ## 📸 Screenshots
 
