@@ -93,14 +93,10 @@ http://10.71.243.211:5000
 
 ## 📸 Screenshots
 
-![Upload](screenshots/upload.png)
-
-![Process](screenshots/process.png)
-
-![Preview](screenshots/preview.png)
-
-![Download](screenshots/download.png)
-
+![Upload](screenshots/upload.png.png)
+![Process](screenshots/process.png.png)
+![Preview](screenshots/preview.png.png)
+![Download](screenshots/download.png.png)
 ---
 
 ## 🔮 Future Scope
