@@ -121,7 +121,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 Karthick Raja B
-Computer Science Engineering Student
+B.E. Computer Science Engineering
+
+GitHub:
+https://github.com/karthickrajab897-cyber
 <p align="center">
   Built with ❤️ using Flask & Pillow
 </p>
