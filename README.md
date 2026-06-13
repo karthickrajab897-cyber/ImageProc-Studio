@@ -118,7 +118,10 @@ http://10.71.243.211:5000
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+## Author
 
+Karthick Raja B
+Computer Science Engineering Student
 <p align="center">
   Built with ❤️ using Flask & Pillow
 </p>
