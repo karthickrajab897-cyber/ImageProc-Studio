@@ -88,13 +88,8 @@ ImageProcessor/
 
 ## ▶️ Run Instructions
 
-```bash
-python app.py
-```
-
-The server starts at **http://10.71.243.211:5000**. Open this URL in your browser.
-
----
+Open your browser and visit:
+http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
