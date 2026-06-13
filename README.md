@@ -88,24 +88,18 @@ ImageProcessor/
 
 ## ▶️ Run Instructions
 
-```bash
-python app.py
-```
-
-The server starts at **http://10.71.243.211:5000**. Open this URL in your browser.
-
----
+Open your browser and visit:
+http://10.71.243.211:5000
 
 ## 📸 Screenshots
 
-> _Add screenshots of the running application here._
+![Upload](screenshots/upload.png)
 
-| View | Screenshot |
-|---|---|
-| Upload (Dark) | `screenshots/upload_dark.png` |
-| Process (Dark) | `screenshots/process_dark.png` |
-| Preview (Light) | `screenshots/preview_light.png` |
-| Download | `screenshots/download.png` |
+![Process](screenshots/process.png)
+
+![Preview](screenshots/preview.png)
+
+![Download](screenshots/download.png)
 
 ---
 
